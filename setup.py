@@ -9,11 +9,11 @@ if 'REDISCLOUD_URL' in os.environ and 'REDISCLOUD_PORT' in os.environ and 'REDIS
      packages.append('django-redis-cache')
      packages.append('hiredis')
 
-setup(name='YourAppName',
+setup(name='LuckyGo',
       version='1.0',
-      description='OpenShift App',
-      author='Your Name',
-      author_email='example@example.com',
+      description='Lucky go App',
+      author='Maxim Popkov, Pavel Timonin, Ledovski Maxim',
+      author_email='dales3d@gmail.com',
       url='https://pypi.python.org/pypi',
       install_requires=packages,
 )
