@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Django 1.6 on OpenShift
 =======================
 
@@ -128,3 +129,7 @@ Django project directory structure
      			README
 
 From HERE you can start with your own application.
+=======
+luckygo
+=======
+>>>>>>> 8c110c9e09f95c63cec2a29eab8858a8f1c04e5c
